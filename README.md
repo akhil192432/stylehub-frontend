@@ -9,7 +9,7 @@ Welcome to **StyleHub**, a sleek and modern fashion website showcasing the lates
 
 ## Live Demo
 
-🔗 [Check it out here](https://yourusername.github.io/stylehub-frontend/)
+🔗 [Check it out here](https://yourusername.github.io/stylehub-frontend/index.html)
 
 ## Features
 
