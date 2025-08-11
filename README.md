@@ -12,7 +12,7 @@ Welcome to **StyleHub**, a sleek and modern fashion website showcasing the lates
 
 ## Live Demo
 
-🔗 [Check it out here](https://yourusername.github.io/stylehub-frontend/)
+🔗 [Check it out here](https://akhil192432.github.io/stylehub-frontend/)
 
 ## Features
 
